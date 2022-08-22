@@ -1,5 +1,5 @@
 import React from "react";
 
-export const Home = () => {
-  return <div id="home-page">Home Page</div>;
+export const Index = () => {
+  return <div id="index-page">Index Page</div>;
 };
